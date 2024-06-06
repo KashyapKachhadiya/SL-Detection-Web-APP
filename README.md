@@ -3,8 +3,13 @@
  
  
  **Technologies Used :**
+   
    Machine Learining
+   
    React 
+   
    React-Redux
+   
    TailwindCSS
+   
    FireseBase
